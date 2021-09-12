@@ -1,1 +1,21 @@
-{"\ufeff{\n  \"Past Jobs\": [\n    {\n      \"Company\": \"Nextier Advisory\",\n      \"Job Title\": \"Product Manager\",\n      \"Location\": \"Nigeria\",\n      \"Duration\": \"2019 - 2021\"\n    },\n    {\n      \"Company\": \"The Electricity Hub\",\n      \"Job Title\": \"Product Manager\",\n      \"Location\": \"Nigeria\",\n      \"Duration\": \"2017 - 2019\"\n    },\n    {\n      \"My Hobbies\": \" Playing Football & Reading\"\n    }\n  ]\n}": null}
+{
+	"My past work experience": [{
+		"Job Title": "Data Analyst",
+		"Company": "Nextier Advisory",
+		"Location": "Nigeria, Africa.",
+		"Duration": "2019 - 2021"
+	},
+	{
+		"Job Title": "Product Manager",
+		"Company": "Electricity Hub",
+		"Location": "Nigeria, Africa.",
+		"Duration": "2017 - 2019"
+	},
+	{
+		"Job Title": "IT Associate",
+		"Company":  "Bayero University",
+		"Location": "Kano,Nigeria.",
+		"Duration": "2016 - 2017"
+	}]
+	
+}
